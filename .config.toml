@@ -1,0 +1,4 @@
+[logging]
+level = "info"   # "debug" | "info" | "warn" | "error"
+output = "stdout" # "stdout" | "stderr" | "./EgoismoBot.log"
+app_name = "EgoismoBot"
